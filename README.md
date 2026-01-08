@@ -18,7 +18,7 @@
 
 </p>
 
-<h1 align="center">🌟 ¡SI ME DAS UNA ESTRELLA ME AYUDARÍA MUCHO! 🌟</h1>
+<h1 align="center"></h1>
 
 ### **`⚠️ Información importante`**
 
