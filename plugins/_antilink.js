@@ -1,7 +1,7 @@
 // Regex mejorado para detectar TODOS los tipos de enlaces
 const linkRegex = /(?:(?:https?|ftp):\/\/)?(?:www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b(?:[-a-zA-Z0-9()@:%_\+.~#?&\/=]*)/gi
 const whatsappLinkRegex = /(chat\.whatsapp\.com\/[0-9A-Za-z]{20,24})|(whatsapp\.com\/channel\/[0-9A-Za-z]{20,24})/i
-const allowedLinks = ['https://whatsapp.com/channel/0029Vb64nWqLo4hb8cuxe23n']
+const allowedLinks = ['']
 
 export async function before(m, { conn, isAdmin, isBotAdmin, isROwner }) {
     // Verificaciones básicas
